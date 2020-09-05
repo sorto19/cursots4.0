@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc hola.ts"
+    "build": "tsc clases.ts"
   },
-  "author": "",
+  "author": "Ramon sorto",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.0.2"
