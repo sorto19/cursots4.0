@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "tsc clases.ts"
+    "build": "tsc interfaces.ts"
   },
   "author": "Ramon sorto",
   "license": "ISC",
